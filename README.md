@@ -38,8 +38,8 @@ When I'm not coding, I'm probably watching football or cricket, or reading up on
 
 | Course | Code | Campus |
 |---|---|---|
-| Advanced Topics in Data Science (Intro to Deep Learning and LLMs) | DS-UA 301 | NYU Stern |
-| Agile Software Development | CSCI-UA 430 | NYU Stern |
+| Advanced Topics in Data Science (Intro to Deep Learning and LLMs) | DS-UA 301 | NYU CAS |
+| Agile Software Development | CSCI-UA 430 | NYU CAS |
 | Algorithms | CS-UH 1052G | NYU Paris |
 | Computer Networking | CS-UY 4793G | NYU Paris |
 | Computer Systems Organization | CS-UH 2010 | NYUAD |
@@ -47,7 +47,7 @@ When I'm not coding, I'm probably watching football or cricket, or reading up on
 | Data Structures | CS-UH 1050 | NYUAD |
 | Discrete Mathematics | CS-UH 1002 | NYUAD |
 | Introduction to Computer Science | CS-UH 1001 | NYUAD |
-| Introduction to Databases | CS-UY 3083 | NYU Stern |
+| Introduction to Databases | CS-UY 3083 | NYU Tandon |
 | Language of Computers | CADT-UH 1013EQ | NYUAD |
 | Calculus with Applications to Science and Engineering | MATH-UH 1012Q | NYUAD |
 | Multivariable Calculus with Applications to Science and Engineering | MATH-UH 1020 | NYUAD |
