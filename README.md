@@ -12,7 +12,7 @@
 
 ### About Me
 
-I'm a Computer Science and Finance student at NYU Abu Dhabi (minor in Applied Math, graduating May 2027), currently interning at **Baraka**, a YC backed fintech in Dubai, where I work on AI agent pipelines, automation, SQL against production data, and full stack features.
+I'm a Computer Science and Applied Maths student at NYU Abu Dhabi (graduating May 2027), currently interning at **Baraka**, a YC backed fintech in Dubai, where I work on AI agent pipelines, automation, SQL against production data, and full stack features.
 
 Before that I was building a LangChain and Gemini powered logistics assistant at **Swftbox**, shipping features as a Software Dev Intern at **Pet Republic**, and researching defense strategies for Quanvolutional Neural Networks as a Quantum ML Research Assistant at NYU's Center for Quantum and Topological Systems.
 
@@ -32,10 +32,10 @@ When I'm not coding, I'm probably watching football or cricket, or reading up on
 ---
 
 ### Education
- 
+
 <details>
 <summary><b>Relevant Coursework</b></summary>
-<br>
+
 | Course | Code | Campus |
 |---|---|---|
 | Advanced Topics in Data Science (Intro to Deep Learning and LLMs) | DS-UA 301 | NYU Stern |
@@ -53,13 +53,13 @@ When I'm not coding, I'm probably watching football or cricket, or reading up on
 | Multivariable Calculus with Applications to Science and Engineering | MATH-UH 1020 | NYUAD |
 | Linear Algebra | MATH-UA 9140 | NYU Paris |
 | Probability and Statistics | MATH-UH 2011Q | NYUAD |
-  
+
 </details>
 
 ---
 
 ### Tech Stack
- 
+
 **Languages**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
@@ -68,6 +68,7 @@ When I'm not coding, I'm probably watching football or cricket, or reading up on
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
 </p>
+
 **Frameworks & Tools**
 <p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
@@ -75,6 +76,7 @@ When I'm not coding, I'm probably watching football or cricket, or reading up on
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white">
 </p>
+
 **Data & Analysis**
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
@@ -83,6 +85,7 @@ When I'm not coding, I'm probably watching football or cricket, or reading up on
   <img src="https://img.shields.io/badge/statsmodels-3776AB?style=flat-square">
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square">
 </p>
+
 **AI & ML**
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
