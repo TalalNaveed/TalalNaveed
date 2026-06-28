@@ -30,7 +30,34 @@ When I'm not coding, I'm probably watching football or cricket, or reading up on
 🌍 Based in Abu Dhabi, spending time in Dubai
 
 ---
+
+### Education
  
+<details>
+<summary><b>Relevant Coursework</b></summary>
+<br>
+| Course | Code | Campus |
+|---|---|---|
+| Advanced Topics in Data Science (Intro to Deep Learning and LLMs) | DS-UA 301 | NYU Stern |
+| Agile Software Development | CSCI-UA 430 | NYU Stern |
+| Algorithms | CS-UH 1052G | NYU Paris |
+| Computer Networking | CS-UY 4793G | NYU Paris |
+| Computer Systems Organization | CS-UH 2010 | NYUAD |
+| Data Bootcamp | ECON-UB 232 | NYU Stern |
+| Data Structures | CS-UH 1050 | NYUAD |
+| Discrete Mathematics | CS-UH 1002 | NYUAD |
+| Introduction to Computer Science | CS-UH 1001 | NYUAD |
+| Introduction to Databases | CS-UY 3083 | NYU Stern |
+| Language of Computers | CADT-UH 1013EQ | NYUAD |
+| Calculus with Applications to Science and Engineering | MATH-UH 1012Q | NYUAD |
+| Multivariable Calculus with Applications to Science and Engineering | MATH-UH 1020 | NYUAD |
+| Linear Algebra | MATH-UA 9140 | NYU Paris |
+| Probability and Statistics | MATH-UH 2011Q | NYUAD |
+  
+</details>
+
+---
+
 ### Tech Stack
  
 **Languages**
@@ -81,19 +108,6 @@ When I'm not coding, I'm probably watching football or cricket, or reading up on
 | [Quanvolutional Neural Network](https://github.com/TalalNaveed/Quanvolutional-Neural-Network) | NYUAD research project analyzing defense strategies against trainable Quanvolutional Neural Networks | Python, Qiskit |
 | [UrbanMobility](https://github.com/TalalNaveed/UrbanMobility) | Data Bootcamp midterm analyzing how weather conditions relate to Citi Bike station utilization in NYC, combining public APIs with regression modeling | Python, pandas, statsmodels |
 | [AfterShip Web Scraping](https://github.com/TalalNaveed/Aftership_WebScraping) | Selenium scraper pulling company details from AfterShip | Python, Selenium |
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TalalNaveed&show_icons=true&theme=tokyonight&hide_border=true" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TalalNaveed&theme=tokyonight&hide_border=true" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalalNaveed&layout=compact&theme=tokyonight&hide_border=true" height="165">
-</p>
 
 ---
 
