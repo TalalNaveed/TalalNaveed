@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Talal 👋</h1>
 
-<h3 align="center">CS and Applied Maths Major @ NYU Abu Dhabi | Building AI agents, full stack products, and the occasional quantum neural net</h3>
+<h3 align="center">CS and Applied Maths Major @ NYU Abu Dhabi | Building AI agents, full stack products, and data analysis pipelines</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/talal-naveed-0113a923a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
